@@ -1,6 +1,6 @@
 ### SeonHak's Profile 👋
 
-Hi, I'm Web Developer
+Hi, I'm Web Developer.
 
 I want to be smart guy in IT.
 
